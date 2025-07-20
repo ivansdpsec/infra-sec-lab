@@ -65,7 +65,7 @@ sudo dpkg-reconfigure --priority=low unattended-upgrades
 - Capturas del log de logwatch
 
 
-Última revisión técnica: [dd/mm/aaaa]
-Responsable: Iván Sotelo
-Entorno: Simulado – infra-sec-lab
+**Última revisión técnica:** [dd/mm/aaaa]  
+**Responsable:** Iván Sotelo  
+**Entorno:** Simulado – `infra-sec-lab`
 
