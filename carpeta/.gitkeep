@@ -1,0 +1,14 @@
+infra-sec-lab/
+├── sistemas/
+│   ├── debian-hardened.md
+│   └── windows-basic.md
+├── politicas/
+│   ├── politica-backup.md
+│   ├── politica-passwords.md
+├── riesgos/
+│   ├── analisis-riesgo-basico.md
+├── diagramas/
+│   └── red-segura.png
+├── checklist/
+│   └── cis-debian.md
+├── README.md
